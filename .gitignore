@@ -70,7 +70,7 @@ testem.log
 Thumbs.db
 
 # Firebase
-src/environments/
-.firebase
-*-debug.log
-.runtimeconfig.json
+# src/environments/
+# .firebase
+# *-debug.log
+# .runtimeconfig.json
